@@ -1,3 +1,7 @@
 .vscode/
 venv/
+.venv/
 *.ovpn
+*.bin
+*.pem
+.shell_history
