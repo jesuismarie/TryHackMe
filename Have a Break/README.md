@@ -21,10 +21,9 @@
 
 ## Walkthrough (Step-by-Step)
 
-### 1. Deployment & Setup
+### 1. Download
 
-* Start the **Have a Break** room on TryHackMe.
-* Download and extract the investigation files.
+Download and extract the investigation files.
 
 The investigation provides several pieces of evidence:
 
@@ -53,7 +52,7 @@ The first clue is the anonymous email stored in `exhibit_a.eml`.
 193.32.249.132
 ```
 
-3. Investigate the IP address using an IP lookup service such as [**IP Lookup**](https://www.iplocation.net/ip-lookup).
+3. Investigate the IP address using [**IP Lookup**](https://www.iplocation.net/ip-lookup) service.
 
 ### 3. Finding the Petrol Station
 
