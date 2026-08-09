@@ -19,7 +19,7 @@
 
 ## Walkthrough (Step-by-Step)
 
-### 1. Download
+### 1. Download Files
 
 1. Download the ZIP file provided by the room.
 
