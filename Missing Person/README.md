@@ -21,8 +21,9 @@
 
 ### 1. Download
 
-* Download the ZIP file provided by the room.
-* Extract the archive.
+1. Download the ZIP file provided by the room.
+
+2. Extract the archive.
 
 The archive contains two images:
 
