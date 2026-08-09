@@ -21,7 +21,7 @@
 
 ## Walkthrough (Step-by-Step)
 
-### 1. Download
+### 1. Download Files
 
 Download and extract the investigation files.
 
