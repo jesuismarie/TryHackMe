@@ -17,7 +17,7 @@
 
 ## Walkthrough (Step-by-Step)
 
-### 1. Download
+### 1. Download Files
 
 * Download the file provided by the **Letter** room.
 * Open the image and inspect the envelope.
