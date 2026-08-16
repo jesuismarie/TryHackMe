@@ -11,11 +11,10 @@
 ## Tools & Techniques
 
 * `exiftool` – for extracting metadata and GPS coordinates from images
-* Google Maps – for identifying locations from GPS coordinates
-* Internet Archive – for investigating historical versions of websites
-* Google Lens – for reverse image searching
-* Google Earth – for identifying buildings and locations
-* Social media search – for identifying accounts from extracted usernames
+* **Google Maps** – for identifying locations from GPS coordinates
+* **Internet Archive** – for investigating historical versions of websites
+* **Google Lens** – for reverse image searching
+* **Google Earth** – for identifying buildings and locations
 
 ## Walkthrough (Step-by-Step)
 
