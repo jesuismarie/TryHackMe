@@ -15,7 +15,7 @@
 * `CyberChef` – for Base64 decoding and URL defanging
 * `sha256sum` – for generating file hashes
 * `VirusTotal` – for malware, domain, and certificate investigation
-* `grep regex` – for extracting email addresses from phishing kit files
+* `regex` – for extracting email addresses from phishing kit files
 
 ## Walkthrough (Step-by-Step)
 
