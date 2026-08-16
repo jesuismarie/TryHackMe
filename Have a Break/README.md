@@ -12,10 +12,10 @@
 
 * `grep` – for searching through investigation files
 * `whois` – for investigating IP ownership
-* IPInfo – for identifying the organization associated with an IP address
-* Google Maps – for identifying the petrol station from the image clues
+* **IPInfo** – for identifying the organization associated with an IP address
+* **Google Maps** – for identifying the petrol station from the image clues
 * CSV analysis – for investigating employee activity
-* Epieos – for investigating the identity associated with an email address
+* **Epieos** – for investigating the identity associated with an email address
 * Email header analysis – for identifying the originating IP address
 * Timeline analysis – for correlating suspicious activity with employee activity
 
