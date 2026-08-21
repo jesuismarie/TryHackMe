@@ -11,11 +11,9 @@
 ## Tools & Techniques
 
 * `exiftool` – for extracting metadata from images
-* Google Image Search – for identifying locations and restaurants
-* Google Search – for researching the MotoGP event and after-party
-* Google Maps – for verifying the bar's location
-* Facebook / Instagram – for finding event and DJ information
-* OSINT – for connecting information from different public sources
+* **Google Lens** – for identifying locations and restaurants
+* **Google Search** – for researching the MotoGP event and after-party
+* **Google Maps** – for verifying the bar's location
 
 ## Walkthrough (Step-by-Step)
 
