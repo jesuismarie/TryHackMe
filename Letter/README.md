@@ -10,8 +10,6 @@
 
 ## Tools & Techniques
 
-* **French Postal Barcode Decoder** – for decoding the barcode found on the envelope
-* **La Poste** – for verifying the postal code
 * **Historical newspaper research** – for identifying the approximate date
 * **Search engines** – for investigating historical events and identifying the intended recipient
 
